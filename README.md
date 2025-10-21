@@ -28,3 +28,15 @@ Requirement Analysis plays a key role in the success of any software project. He
 - Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
 - Quality Assurance: Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
 
+## 🔍 Key Activities in Requirement Analysis
+Requirement Analysis involves a series of structured tasks that help define what a software system should do and how it should behave. For the booking management system in this project, the following five key activities are essential:
+
+- Requirement Gathering This is the initial step where information is collected from stakeholders, users, and domain experts. It focuses on understanding the business needs and expectations for the system.
+
+- Requirement Elicitation Elicitation involves engaging with stakeholders through interviews, surveys, workshops, and observation to uncover hidden needs, constraints, and priorities that may not be immediately obvious.
+
+- Requirement Documentation All gathered and elicited requirements are formally recorded in structured formats such as user stories, use cases, or requirement specifications. This ensures clarity and traceability throughout the development process.
+
+- Requirement Analysis and Modeling In this phase, requirements are examined for feasibility, consistency, and completeness. Modeling tools like diagrams (e.g., use case diagrams) are used to visualize system behavior and interactions.
+
+- Requirement Validation The final step ensures that documented requirements accurately reflect stakeholder needs. Validation may involve reviews, walkthroughs, or prototyping to confirm that the requirements are correct and actionable.
