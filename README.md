@@ -40,3 +40,27 @@ Requirement Analysis involves a series of structured tasks that help define what
 - Requirement Analysis and Modeling In this phase, requirements are examined for feasibility, consistency, and completeness. Modeling tools like diagrams (e.g., use case diagrams) are used to visualize system behavior and interactions.
 
 - Requirement Validation The final step ensures that documented requirements accurately reflect stakeholder needs. Validation may involve reviews, walkthroughs, or prototyping to confirm that the requirements are correct and actionable.
+
+# 📂 Types of Requirements
+Software requirements are typically categorized into two main types: Functional and Non-functional. Both are essential for building a system that not only works correctly but also performs efficiently and meets user expectations.
+### 🔧 Functional Requirements
+Functional requirements describe the specific behaviors, features, and interactions the system must support. They define what the system should do.
+
+Examples for the Booking Management System:
+- Search Properties: Users should be able to search for properties based on various criteria such as location, price, and availability.
+- User Registration: New users should be able to create an account with personal details and login credentials.
+- Property Listings: Display properties with essential details and images.
+- Booking System: Users should be able to book properties, view booking details, and manage their bookings.
+- User Authentication: Secure login and registration process for users
+
+### ⚙️ Non-functional Requirements
+Non-functional requirements define the quality attributes of the system—how it performs rather than what it does.
+
+Examples for the Booking Management System:
+
+- Performance: The system should load pages within 2 seconds and handle up to 1000 concurrent users.
+- Security: Ensure data encryption, secure login, and protect against common vulnerabilities.
+- Scalability: The system should be able to scale horizontally to handle increased traffic.
+- Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
+- Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
+
