@@ -64,3 +64,21 @@ Examples for the Booking Management System:
 - Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
 - Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
 
+## ✅ Acceptance Criteria
+Acceptance Criteria are predefined conditions that a software feature must meet to be considered complete and acceptable by stakeholders. In the context of Requirement Analysis, they serve as a bridge between business expectations and technical implementation, ensuring clarity, alignment, and quality throughout the development process.
+
+#### 🔍 Importance in Requirement Analysis
+- Ensure all parties have a clear understanding of feature requirements.
+- Provide a basis for testing and validation.
+- Help in maintaining quality and meeting user expectations.
+- Supports Agile Development
+
+#### 🛒 Example: Checkout Feature in Booking Management System
+Acceptance Criteria:
+
+User must be logged in to initiate checkout.
+
+Payment options (e.g., credit card, PayPal) must be available and functional.
+
+Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes
+
