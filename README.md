@@ -64,6 +64,30 @@ Examples for the Booking Management System:
 - Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
 - Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
 
+  ## Use Case Diagrams
+
+Use Case Diagrams are part of the **Unified Modeling Language (UML)** and represent the **functional requirements** of a system. They show the relationship between **actors** (users or other systems that interact with the system) and **use cases** (specific tasks or functions the system provides to the actor).
+
+### Benefits of Use Case Diagrams
+
+1.  **Clear Communication:** They provide an easy-to-understand view of the system's scope, allowing technical and non-technical stakeholders to agree on the required functionality.
+2.  **Scope Definition:** They clearly define the **system boundary** and what the system is expected to do, which helps in managing project scope and preventing **scope creep**.
+3.  **Foundation for Further Analysis:** Each use case serves as a starting point for detailed requirement elicitation, leading to more comprehensive specifications (e.g., use case descriptions, activity diagrams).
+4.  **Early Planning:** They assist in early project planning, test case generation, and estimating development effort.
+
+### Use Case Diagram for a Booking System
+
+The diagram below illustrates the high-level functional requirements for the booking system, defining who (Actors) does what (Use Cases) within the system's boundary.
+
+| Element | Description |
+| :--- | :--- |
+| **Actors** | **Customer:** The person making a booking. **System Administrator:** The person managing the system, content, and users. **Payment Gateway:** An external system handling financial transactions. |
+| **Use Cases** | **Search Availability:** Customer searches for available dates/items/slots. **Make Booking:** Customer reserves an available item/slot. **Cancel Booking:** Customer or Admin cancels an existing booking. **Manage System:** Admin adds, modifies, or deletes system resources, users, or content. **View Booking Details:** Customer or Admin checks the details of a specific booking. |
+
+### Diagram
+
+![ALX Booking System Use Case Diagram](alx-booking-uc.png)
+
 ## ✅ Acceptance Criteria
 Acceptance Criteria are predefined conditions that a software feature must meet to be considered complete and acceptable by stakeholders. In the context of Requirement Analysis, they serve as a bridge between business expectations and technical implementation, ensuring clarity, alignment, and quality throughout the development process.
 
