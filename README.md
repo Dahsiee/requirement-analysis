@@ -86,9 +86,7 @@ The diagram below illustrates the high-level functional requirements for the boo
 | **Use Cases** | **Search Availability:** Customer searches for available dates/items/slots. **Make Booking:** Customer reserves an available item/slot. **Cancel Booking:** Customer or Admin cancels an existing booking. **Manage System:** Admin adds, modifies, or deletes system resources, users, or content. **View Booking Details:** Customer or Admin checks the details of a specific booking. |
 
 ### Diagram
-
-
-<img width="1024" height="1024" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/4de2c7e0-125c-475e-8ed2-d7824f3466b7" />
+![Alt Text](alx-booking-uc.png)
 
 
 ## ✅ Acceptance Criteria
