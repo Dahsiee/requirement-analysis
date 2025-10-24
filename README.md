@@ -4,7 +4,8 @@ This repository hosts the Requirement Analysis Project, designed to guide learne
 Requirement analysis is a critical process in software development lifecycle that involves gathering, evaluating, and documenting the needs and expectations of stakeholders to ensure the final product meets their requirements. This process ensures all stakeholders have a clear and mutual understanding of what the system is to do and how it is to perform.
 This process involves:
 
-- Gathering information from stakeholders and users
+- Gathering information from stakeholders and users!
+
 - Analyzing and modeling requirements to understand system behavior
 - Documenting functional and non-functional needs
 - Validating that requirements are complete, feasible, and aligned with project objectives
@@ -86,7 +87,9 @@ The diagram below illustrates the high-level functional requirements for the boo
 
 ### Diagram
 
-![ALX Booking System Use Case Diagram](alx-booking-uc.png)
+
+<img width="1024" height="1024" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/4de2c7e0-125c-475e-8ed2-d7824f3466b7" />
+
 
 ## ✅ Acceptance Criteria
 Acceptance Criteria are predefined conditions that a software feature must meet to be considered complete and acceptable by stakeholders. In the context of Requirement Analysis, they serve as a bridge between business expectations and technical implementation, ensuring clarity, alignment, and quality throughout the development process.
